@@ -17,7 +17,6 @@ venv.bak/
 .deepface/
 
 # Project Specific
-face_embeddings.pkl
 result_*.jpeg
 result_*.jpg
 temp_uploaded_image.jpg
