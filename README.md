@@ -1,4 +1,4 @@
-# Face Recognition and Age Prediction Project
+# Face Recognition Project
 
 This project uses a pre-trained CNN (MobileNetV2 from ImageNet) to extract facial embeddings and restrict access to unknown persons, while performing Age Estimation using DeepFace.
 
